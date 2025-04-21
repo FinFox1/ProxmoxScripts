@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Copyright (c) 2025 xAI
+# Idea: FinFox1 ( https://github.com/FinFox1 )
 # License: MIT
 # Description: Installs TYPO3 CMS with Apache and MySQL in a Proxmox LXC container on Debian 12
 
