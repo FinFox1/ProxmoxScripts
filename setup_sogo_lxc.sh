@@ -25,7 +25,7 @@ if ! command -v pveam >/dev/null 2>&1; then
 fi
 
 # Configuration variables
-CTID=100
+CTID=200
 HOSTNAME="sogo-server"
 STORAGE="local-lvm"
 TEMPLATE_STORAGE="local"
