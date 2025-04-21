@@ -35,7 +35,7 @@ MEMORY=2048
 SWAP=512
 BRIDGE="vmbr0"
 IP="dhcp"
-CONTAINER_TEMPLATE="debian-12-standard_12.5-1_amd64.tar.zst"
+CONTAINER_TEMPLATE="debian-12-standard_12.7-1_amd64.tar.zst"
 
 # Function to check command success
 check_status() {
